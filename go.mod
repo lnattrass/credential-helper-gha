@@ -1,4 +1,4 @@
-module github.com/lnattrass/credential-helper-gha
+module github.com/lnattrass/git-credential-helper-gha
 
 go 1.21.3
 
